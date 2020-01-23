@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html,
+body {
+  height: 100%; }
+
+header {
+  background-color: #0067ce;
+  height: 100px; }
+
+#inputAlign {
+  position: relative;
+  top: 30%; }
+
+main {
+  background-color: #dcdcdc;
+  height: 750px; }
+
+footer {
+  background-color: #0067ce;
+  height: 80px;
+  color: #fff;
+  text-align: center;
+  line-height: 80px; }
+
+#infoTable {
+  position: relative;
+  bottom: -70px; }
+
+.errorMsg {
+  margin-top: 25%;
+  color: #ececec;
+  font-size: 20px;
+  height: 50px;
+  background-color: #5d0c0c;
+  line-height: 50px;
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
